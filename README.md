@@ -49,3 +49,6 @@ Como evolução do projeto, o próximo passo será integrar esses dados ao Power
 
 ## Conclusão
 Este projeto demonstra como SQL pode ser utilizado para transformar dados financeiros em insights práticos, unindo organização, análise e visão estratégica. Além de fortalecer minhas habilidades técnicas, também reforça minha evolução como profissional em formação na área de Análise de Dados.
+
+![Resultado da Query 1](sql1.jpg)
+![Resultado da Query 2](sql2.jpg)
